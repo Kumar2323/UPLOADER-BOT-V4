@@ -17,8 +17,6 @@ class Config(object):
     
     API_HASH = os.environ.get("API_HASH", "8b9b8214d84305d5ba8042c93575ea84")
     
-    BANNED_USERS = set(int(x) for x in os.environ.get("BANNED_USERS", "").split())
-    
     DOWNLOAD_LOCATION = "./DOWNLOADS"
     
     MAX_FILE_SIZE = 50000000

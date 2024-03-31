@@ -1,7 +1,7 @@
 ## URL Uᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ V4 🚀
 
 
-[![logo](https://te.legra.ph/file/82c925ccc38606d837831.jpg)](https://telegram.dog/UploadLinkToFileBot)
+[![logo](https://graph.org/file/a7af2d3ece56bbb1297aa.jpg)](https://telegram.dog/UploadLinkToFileBot)
 
 [![GitHub forks](https://img.shields.io/github/forks/LISA-KOREA/UPLOADER-BOT-V4?&style=flat-square&logo=github)](https://github.com/LISA-KOREA/UPLOADER-BOT-V4/fork)
 ![Repo Size](https://img.shields.io/github/repo-size/LISA-KOREA/UPLOADER-BOT-V4?&style=flat-square&logo=github)
@@ -50,12 +50,23 @@
 
 <b><details><summary>Tap To watch</summary>
 
+### Heroku Video
 <a href="https://youtu.be/oIUXoIk59dU?feature=shared"><img alt="how to create" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a> 
 
+### Render Video
+<a href="https://youtu.be/NYvMsC5Y_oI?feature=shared"><img alt="how to create" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 </b>
 </details>
 
+### Bot Commands 
+```
+start - Check Bot Online 🔔
+delthumb - Delete Your Thumbnail 🏞
+showthumb - Showing Your Thumbnail 🏞
+broadcast - Broadcast A Message To All Users 🌝
+
+```
 
 ## Environment Variable
 
@@ -83,7 +94,7 @@ Check How To Make MONGODB URL or [YouTube](https://youtu.be/VudXkbirhM8?feature=
 
 <b><details><summary>Tap On See My Community Details</summary>
 
-- YouTube Channel : [Telegram Bots 📱](https://youtube.com/@NTBOT?feature=shared)
+- YouTube Channel : [Telegram Bots 🤖](https://youtube.com/@NTBOT?feature=shared)
 - Telegram Channel : [NT Bots ❤️‍🩹](https://t.me/NT_BOT_CHANNEL)
 - Telegram Group : [NT Bots Support 🎗️](https://t.me/NT_BOTS_SUPPORT)
 - URL Uploader Bot : [Uploader Bot V4 🚀](https://t.me/UploadLinkToFileBot)
@@ -92,4 +103,4 @@ Check How To Make MONGODB URL or [YouTube](https://youtu.be/VudXkbirhM8?feature=
 </b>
 </details>
 
-
+### THIS IS MY LAST URL UPLOADER BOT REPO. I WON'T MAKE UPLOADER REPO ANYMORE
