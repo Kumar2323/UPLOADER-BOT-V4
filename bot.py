@@ -1,6 +1,6 @@
-# https://github.com/LISA-KOREA/UPLOADER-BOT-V4/tree/main#this-is-my-last-url-uploader-bot-repo-i-wont-make-uploader-repo-anymore
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+# Hey Give Me Star 🥲
+
+
 
 import logging
 logging.basicConfig(level=logging.DEBUG,
@@ -16,7 +16,7 @@ logging.getLogger("pyrogram").setLevel(logging.WARNING)
 
 
 if __name__ == "__main__" :
-    # create download directory, if not exist
+
     if not os.path.isdir(Config.DOWNLOAD_LOCATION):
         os.makedirs(Config.DOWNLOAD_LOCATION)
     plugins = dict(root="plugins")
