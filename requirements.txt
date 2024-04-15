@@ -3,6 +3,8 @@ beautifulsoup4
 hachoir
 numpy
 Pillow
+package1==1.0.0
+package2>=2.1.0,<3.0.0
 pyrogram
 requests
 tgcrypto
