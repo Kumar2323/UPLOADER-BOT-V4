@@ -1,3 +1,9 @@
-build:
-  docker:
-    worker: Dockerfile
+services:
+  - name: URL UPLOADER V4
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python3 bot.py
+    envVars:
+      - key: PORT
+        value: "10000"
+    healthCheckPath: /
