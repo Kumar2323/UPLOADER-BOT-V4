@@ -221,9 +221,9 @@ async def download_coroutine(bot, session, url, file_name, chat_id, message_id, 
         await bot.edit_message_text(
             chat_id,
             message_id,
-            text="""Iɴɪᴛɪᴀᴛɪɴɢ Dᴏᴡɴʟᴏᴀᴅ
-🔗 Uʀʟ : `{}`
-🗂️ Ꮪɪᴢᴇ : {}""".format(url, humanbytes(total_length))
+            text="""IÉ´Éªá´Éªá´á´ÉªÉ´É¢ Dá´á´¡É´Êá´á´á´
+ð UÊÊ : `{}`
+ðï¸ áÉªá´¢á´ : {}""".format(url, humanbytes(total_length))
         )
         with open(file_name, "wb") as f_handle:
             while True:
@@ -242,14 +242,14 @@ async def download_coroutine(bot, session, url, file_name, chat_id, message_id, 
                         (total_length - downloaded) / speed) * 1000
                     estimated_total_time = elapsed_time + time_to_completion
                     try:
-                        current_message = """**DᴏᴡɴʟᴏᴀᴅɪɴG**
-**🔗 Uʀʟ :** `{}`
+                        current_message = """**Dá´á´¡É´Êá´á´á´ÉªÉ´G**
+**ð UÊÊ :** `{}`
 
-**🗂️ Sɪᴢᴇ :** {}
+**ðï¸ SÉªá´¢á´ :** {}
 
-**✅ Dᴏɴᴇ :** {}
+**â Dá´É´á´ :** {}
 
-**⏱️ Eᴛᴀ :** {}""".format(
+**â±ï¸ Eá´á´ :** {}""".format(
     url,
     humanbytes(total_length),
     humanbytes(downloaded),
